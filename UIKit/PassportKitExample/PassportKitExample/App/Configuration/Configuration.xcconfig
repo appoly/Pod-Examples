@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  PassportKitExample
+//
+//  Created by James Wolfe on 24/11/2020.
+//
+
+
+BASE_URL = https:/$()/test.com
+KEYCHAIN_ID = PassportKitExample
+

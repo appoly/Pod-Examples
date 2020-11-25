@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  PassportKitExample
+
+  Created by James Wolfe on 25/11/2020.
+  
+*/
+
+"Email" = "Email";
+"Password" = "Password";
+"Login" = "Login";
+"Logout" = "Logout";

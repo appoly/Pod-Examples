@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Keys (1.0.1)
+  - PassportKit (1.4):
+    - Alamofire (~> 4.9.0)
+    - Valet (~> 3.2.0)
+  - Valet (3.2.8)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - PassportKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - PassportKit
+    - Valet
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  PassportKit: b98b6049e22035aa7917e92988897a318dd45915
+  Valet: 16d0537d70db79d9ba953b9060b5da4fb8004e51
+
+PODFILE CHECKSUM: e03a64c206dbf097b4401d9959f94bd94874d879
+
+COCOAPODS: 1.10.0

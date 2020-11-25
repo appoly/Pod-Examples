@@ -1,0 +1,18 @@
+platform :ios, '11.4'
+
+plugin 'cocoapods-keys', {
+  :project => "PassportKitExample",
+  :keys => [
+    "ClientID",
+    "Secret"
+  ]
+}
+
+target 'PassportKitExample' do
+  use_frameworks!
+
+  pod 'PassportKit'
+  pod 'IQKeyboardManagerSwift'
+
+
+end
